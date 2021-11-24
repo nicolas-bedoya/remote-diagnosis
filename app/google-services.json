@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140141636669",
+    "project_id": "remote-diagnosis",
+    "storage_bucket": "remote-diagnosis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140141636669:android:eea00cb0032659d96a4e54",
+        "android_client_info": {
+          "package_name": "com.example.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140141636669-f2guoqecp1sfusgstk0cbrtefbp526rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQSmDljC0XtMzPKwa6ReOgDzQ8xG_x08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140141636669-f2guoqecp1sfusgstk0cbrtefbp526rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
